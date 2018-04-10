@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="Profile">
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myaccount"
+            android:icon="@drawable/person"
+            android:title="எண் கணக்கு" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/ic_action_signout"
+            android:title="வெளியேறுக" />
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_search"
+                android:icon="@drawable/ic_action_search"
+                android:title="உறுப்பினர் தேடல்" />
+            <item
+                android:id="@+id/nav_commands"
+                android:icon="@drawable/command"
+                android:title="கருத்தாக்கம்" />
+            <item
+                android:id="@+id/nav_donation"
+                android:icon="@drawable/dotation"
+                android:title="நன்கொடை" />
+        </menu>
+    </item>
+
+</menu>

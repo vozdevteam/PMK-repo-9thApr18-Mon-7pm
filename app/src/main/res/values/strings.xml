@@ -1,0 +1,70 @@
+<resources>
+    <string name="PMK">Member Registration Page</string>
+    <string name="app_name">PMK</string>
+    <string name="title">pmk</string>
+
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="single">Single</string>
+    <string name="married">Married</string>
+
+
+    <string name="con">தொகுதி</string>
+    <string name="head">முதன்மை</string>
+    <string name="event">நிகழ்வுகள்</string>
+    <string name="news">செய்திகள்</string>
+    <string name="map">வரைபடம்</string>
+
+
+    <string-array name="acc_type">
+
+        <item>திருவள்ளூர்</item>
+        <item>காஞ்சிபுரம்</item>
+        <item>சென்னை</item>
+        <item>சென்னை</item>
+        <item>அரியலூர்</item>
+        <item>இராமநாதபுரம்</item>
+        <item>ஈரோடு</item>
+        <item>கடலூர்</item>
+        <item>கரூர்</item>
+        <item>கன்னியாகுமரி</item>
+        <item>கிருஷ்ணகிரி</item>
+        <item>கோயம்புத்தூர்</item>
+        <item>சிவகங்கை</item>
+        <item>சேலம்</item>
+        <item>தஞ்சாவூர்</item>
+        <item>தர்மபுரி</item>
+        <item>திண்டுக்கல்</item>
+        <item>திருச்சிராப்பள்ளி</item>
+        <item>திருநெல்வேலி</item>
+        <item>திருப்பூர்</item>
+        <item>திருவண்ணாமலை</item>
+        <item>திருவாரூர்</item>
+        <item>தூத்துக்குடி</item>
+        <item>தேனி</item>
+        <item>நாகப்பட்டினம்</item>
+        <item>நாமக்கல்</item>
+        <item>நீலகிரி</item>
+        <item>புதுக்கோட்டை</item>
+        <item>பெரம்பலூர்</item>
+        <item>மதுரை</item>
+        <item>விருதுநகர்</item>
+        <item>விழுப்புரம்</item>
+        <item>வேலூர்</item>
+    </string-array>
+
+
+    <string name="title_activity_profile">Profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">Navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
+
+

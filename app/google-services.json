@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "500305466926",
+    "firebase_url": "https://pmkproject-8bb0b.firebaseio.com",
+    "project_id": "pmkproject-8bb0b",
+    "storage_bucket": "pmkproject-8bb0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500305466926:android:2ba050fc15e69354",
+        "android_client_info": {
+          "package_name": "com.example.hp.pmk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500305466926-vm7bs19gac6ephldbtpv3jv0i6oag0rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.pmk",
+            "certificate_hash": "ffe4fdb2b2c89798b633a7529f83b4f2535dd29b"
+          }
+        },
+        {
+          "client_id": "500305466926-fcbabnej43n93vhn2dp412ongl3sf50c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.pmk",
+            "certificate_hash": "6d05e5bd1c6f6fc76856b7271d61bdeb7ca7fa3b"
+          }
+        },
+        {
+          "client_id": "500305466926-69k66ekahobbj0v4064i0pv9h5msqlgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNZS3mjvKmRgfDh5eYist-XWH5QubiWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500305466926-69k66ekahobbj0v4064i0pv9h5msqlgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
